@@ -1,0 +1,22 @@
+{
+    "titulo": "Estudio Ventín",
+    "sobreMi":{
+        "title":"¿Quien Soy?",
+        "contenido":"Me llamo Darío Ventín, tengo 32 años. Soy cordobés, de la ciudad de La Calera (Sierras Chicas)."
+    },
+    "sitiosDeInteres": [{
+            "nombre": "Ignacio Online"
+        },
+        {
+            "nombre": "UNC | Faculta de Ciencias Económicas"
+        },
+        {
+            "nombre": "El Blog del Contador"
+        }
+    ],
+    "contacto": {
+        "telefono": "(+54)9-351-5640940",
+        "email": "estudioventin@outlook.com",
+        "direccion": "Av. Simón Bolívar 480 | La Calera (Córdoba)"
+    }
+}
